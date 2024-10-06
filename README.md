@@ -1,0 +1,1 @@
+The website is used to give information about the latest movies and information about the movies you searched
